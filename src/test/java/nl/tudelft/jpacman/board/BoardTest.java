@@ -20,10 +20,4 @@ public class BoardTest {
         board = new Board(squares2DArray);
         assertThat(board.squareAt(0, 0)).isNotNull();
     }
-    @Test
-    void testNullSquareBoard() {
-        squares2DArray = new Square[1][1];
-        board = new Board(squares2DArray);
-        assertThat(board.squareAt(0, 0)).isNull();
-    }
 }
