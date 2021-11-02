@@ -1,6 +1,6 @@
 # JPacman
 
-![Build Status](https://github.com/pumipatw/jpacman/actions/workflows/jpacman.yml/badge.svg) 
+![Build Status](https://github.com/pumipatw/jpacman/actions/workflows/gradle.yml/badge.svg) 
 ![Coverage](.github/badges/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
 
